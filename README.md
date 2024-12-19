@@ -1,0 +1,1 @@
+go to \extensions\stable-diffusion-webui-wd14-tagger\tagger and replace the file with the one I provided, this adds the v3 vit tagger to the list and it will auto downlaod from smilingwolf repo as usual.
